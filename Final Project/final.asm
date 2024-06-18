@@ -1,5 +1,4 @@
 ; COSC 2325.004 Final Project (In-Class)
-; Author: Kathryn Sheahen
 ; Date: 5/1/2024
 
 INCLUDE Irvine32.inc
